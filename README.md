@@ -6,5 +6,5 @@ This repository consists of projects where I cleaned, wrangle and visualize data
 1. Student data
 2. Office sales data
 3. Uber data
-4. Customer data
+4. Fifa data
 
